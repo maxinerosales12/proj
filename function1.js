@@ -1,1 +1,1 @@
-console.log ("This is is Functio 1");
+console.log ("This is is Function 1");
